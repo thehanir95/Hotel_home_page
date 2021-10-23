@@ -1,0 +1,142 @@
+
+/**first*/
+.first .container-fluid {
+    padding-top: 2rem;
+    width: 600px;
+}
+
+.first .container-fluid .col-6 {
+    text-align: right;
+}
+
+.first .container-fluid p {
+    text-align: right;
+    margin-left: -5.2rem;
+    margin-top: -2.5rem;
+    color: purple;
+    text-transform: capitalize;
+    font-size: 0.8rem;
+}
+
+.first .container-fluid .col-6 img {
+    float: left;
+}
+
+.first .container-fluid h3 {
+    font-size: 0.8rem;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.first .container-fluid h4 {
+    text-transform: capitalize;
+    float: right;
+    font-size: 0.8rem;
+}
+
+/*second*/
+.second .container-fluid {
+    text-align: center;
+    padding-top: 0.5rem;
+    width: 600px;
+}
+
+.second .container-fluid img {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+/*third*/
+.third .container-fluid {
+    padding-top: 1rem;
+    padding-left: 2rem;
+    width: 600px;
+}
+
+.third .container-fluid .button {
+    text-align: center;
+}
+
+.third .container-fluid .button button {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 0;
+    background-color: white;
+    border:turquoise solid 0.5px;
+    padding: 1rem;
+    width: 20rem;
+}
+
+/*forth*/
+.forth .container-fluid {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    width: 600px;
+}
+
+.forth .container-fluid .col-6 {
+    background-color: #000066;
+    color: white;
+    height: 500px;
+    padding-top: 5rem;
+}
+
+.forth .container-fluid .col-6 h3 {
+    padding-top: 1rem;
+    float: left;
+    font-size: 1.3rem;
+    font-weight: bold;
+    
+}
+
+.forth .container-fluid p {
+    padding-top: 0.5rem;
+    text-align: left;
+    float: left;
+}
+
+.forth .container-fluid .col-6 .button {
+    text-align: center;
+}
+
+.forth .container-fluid .col-6 .button button {
+    border-radius: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    background-color: #000066;
+    padding: 0.5rem;
+    width: 10rem;
+    color: white;
+    border: turquoise solid 0.5px;
+}
+
+.forth .container-fluid .col-6 {
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+/*fifth*/
+.fifth .container-fluid {
+    text-align: center;
+    width: 600px;
+}
+
+.fifth .container-fluid h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.fifth .container-fluid img,
+h3 {
+    display: inline-block;
+}
+
+.fifth .container-fluid h4 {
+    font-size: 1rem;
+}
